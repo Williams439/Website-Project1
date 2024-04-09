@@ -9,3 +9,44 @@
 .About-header {
     text-align: center;
 }
+
+.Contact-header {
+    text-align: center;
+}
+
+.first-name-field {
+    align-items: center;
+}
+
+.display-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.display-box {
+    padding: 2rem;
+    border: 2px solid black;
+    margin: 2rem;
+    box-sizing: content-box;
+    width: calc(90% - 10rem);
+    text-align: center;
+    min-width: 200px;
+    border-radius: 35px;
+}
+
+.display-box:hover {
+    background-color: lightgray;
+}
+
+.display-image {
+    width: 80%;
+    max-width: 200px;
+}
+
+@media screen and (min-width: 768px) {
+    .display-box {
+        width: calc(50% - 10rem);
+    }
+}
