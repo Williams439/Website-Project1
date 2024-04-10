@@ -19,7 +19,11 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 20px;
+}
 
+.genres-card {
+    margin: 20px;
 }
 
 .display-box {
