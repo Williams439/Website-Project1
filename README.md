@@ -16,8 +16,14 @@ This is my first independent project in Visual Studio. This project is a functio
 
 ## User Stories
 
-As a Thrill Seeker, I am looking for an action adventure that takes the main character on a mission to a tropical island.
+As a Thrill Seeker,
+I want to find an action adventure
+so that I satify my love for travel.
 
-As a Sleuth, I am looking for the mystery of a lifetime, one that will leave me wondering who is the real culprit the entire time.
+As a Sleuth,
+I want an engaging mystery series
+so that I can develop my problem solving skills.
 
-As an Info-maniac, I want to learn about the migration patterns of the pink-eared duck.
+As an Info-maniac,
+I want to find a book to learn about animal behaviors
+so that I can expand my knowledge.
